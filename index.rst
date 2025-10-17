@@ -2,7 +2,7 @@
    Plasma Observatory Multi-point and Advanced Data Analysis Methods  Working Group
 =================================================
 --------------------------------------------
-   Users' Guide to working with modellers
+   Users' Guide to working with methodists
 --------------------------------------------
 
 
