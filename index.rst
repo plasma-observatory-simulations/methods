@@ -1,5 +1,5 @@
 =================================================
-   GIANNI: PO Numerical Simulations Working Group
+   Plasma Observatory Multi-point and Advanced Data Analysis Methods  Working Group
 =================================================
 --------------------------------------------
    Users' Guide to working with modellers
