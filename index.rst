@@ -1,4 +1,5 @@
-   Plasma Observatory Multi-point and Advanced Data Analysis Methods  Working Group
+=====================================================================================
+  Plasma Observatory Multi-point and Advanced Data Analysis Methods Working Group
 =====================================================================================
 
 --------------------------------------------
